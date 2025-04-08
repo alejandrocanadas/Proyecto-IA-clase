@@ -1,0 +1,1 @@
+El objetivo es desarrollar un modelo predictivo que utilice datos biográficos y demográficos de los estudiantes tales como su edad, sexo, nivel educativo de los padres, tiempo dedicado al estudio, y otros factores personales, para predecir su calificación final en el curso.
