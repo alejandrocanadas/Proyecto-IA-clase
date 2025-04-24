@@ -1,0 +1,10 @@
+Los modelos Ridge, Lasso, Random Forest y KNN han mostrado un rendimiento limitado en la predicción de 
+las notas finales de los estudiantes de nuestra investigacion. A pesar de los intentos por ajustar los 
+hiperparámetros, los resultados de R² continúan siendo bajos, lo que indica que los modelos no logran 
+capturar adecuadamente la variabilidad en las notas. Además, los valores de errores absolutos y MSE muestran 
+que las predicciones están alejadas de los valores reales. Sin embargo, Random Forest mejoró respecto a Ridge 
+y Lasso, no alcanzó una precisión satisfactoria Por su parte, KNN presentó un ajuste aún más deficiente, con 
+valores negativos en R² en algunas combinaciones. Esto sugiere que los modelos lineales y basados en knn 
+vecinos no son adecuados para este tipo de problema. En conclusión, será necesario explorar enfoques más 
+avanzados o modelos alternativos, como Redes Neuronales habladas en clase, que puedan capturar relaciones 
+más complejas y mejorar el rendimiento predictivo.
